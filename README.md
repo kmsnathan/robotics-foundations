@@ -1,12 +1,13 @@
-# Robotics Foundations
+# Robotics & ML Curriculum — 110 Days
 
-Python OOP and C++ basics — Week 1 of my 110-day 
-Robotics & ML curriculum.
+Self-directed robotics and machine learning curriculum
+covering ROS 2, PyTorch, SLAM, Nav2, and YOLO.
 
-## What's here
-- `robot.py` — Robot and Sensor base classes
-- `mobile_robot.py` — MobileRobot inheriting Robot, 
-  list comprehensions, try/except
+## Structure
+- `week1-8/` — Phase 1: Foundations
+- `week9-16/` — Phase 2: Core Skills  
+- `week17-22/` — Phase 3: Integration
 
-## Run it
-python3 robot.py
+## Skills Covered
+Python · C++ · ROS 2 · Gazebo · SLAM · Nav2 · 
+PyTorch · OpenCV · YOLO · Docker · Linux
